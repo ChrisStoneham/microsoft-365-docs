@@ -105,8 +105,6 @@ Ranking is based on the number of remaining points left to achieve, implementati
 
 ### Actions
 
-Actions labeled as [Not Scored] are not tracked by Microsoft Secure Score. You can still take action but completing them will not affect your score. If an action becomes tracked by Microsoft Secure Score in the future and you have already completed it, your secure score will automatically reflect the change.
-
 When you select a specific improvement action, a fly out appears. To complete the action, you have a few options:
 
 1. Select **View settings** to go the configuration screen and make the change. You then gain the points that the action is worth, visible at the top of the fly out. Points may take up to 24 hours to update.
